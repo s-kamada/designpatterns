@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/src/AbstractFactory/AbstractFactory.iml" filepath="$PROJECT_DIR$/src/AbstractFactory/AbstractFactory.iml" />
+      <module fileurl="file://$PROJECT_DIR$/src/Adapter/Adapter.iml" filepath="$PROJECT_DIR$/src/Adapter/Adapter.iml" />
+      <module fileurl="file://$PROJECT_DIR$/src/Bridge/Bridge.iml" filepath="$PROJECT_DIR$/src/Bridge/Bridge.iml" />
+      <module fileurl="file://$PROJECT_DIR$/src/Builder/Builder.iml" filepath="$PROJECT_DIR$/src/Builder/Builder.iml" />
+      <module fileurl="file://$PROJECT_DIR$/src/ChainOfResponsibility/ChainOfResponsibility.iml" filepath="$PROJECT_DIR$/src/ChainOfResponsibility/ChainOfResponsibility.iml" />
+      <module fileurl="file://$PROJECT_DIR$/src/Command/Command.iml" filepath="$PROJECT_DIR$/src/Command/Command.iml" />
+      <module fileurl="file://$PROJECT_DIR$/src/Composite/Composite.iml" filepath="$PROJECT_DIR$/src/Composite/Composite.iml" />
+      <module fileurl="file://$PROJECT_DIR$/src/Decorator/Decorator.iml" filepath="$PROJECT_DIR$/src/Decorator/Decorator.iml" />
+      <module fileurl="file://$PROJECT_DIR$/src/Facade/Facade.iml" filepath="$PROJECT_DIR$/src/Facade/Facade.iml" />
+      <module fileurl="file://$PROJECT_DIR$/src/FactoryMethod/FactoryMethod.iml" filepath="$PROJECT_DIR$/src/FactoryMethod/FactoryMethod.iml" />
+      <module fileurl="file://$PROJECT_DIR$/src/Flyweight/Flyweight.iml" filepath="$PROJECT_DIR$/src/Flyweight/Flyweight.iml" />
+      <module fileurl="file://$PROJECT_DIR$/src/Interpreter/Interpreter.iml" filepath="$PROJECT_DIR$/src/Interpreter/Interpreter.iml" />
+      <module fileurl="file://$PROJECT_DIR$/src/Iterator/Iterator.iml" filepath="$PROJECT_DIR$/src/Iterator/Iterator.iml" />
+      <module fileurl="file://$PROJECT_DIR$/src/Mediator/Mediator.iml" filepath="$PROJECT_DIR$/src/Mediator/Mediator.iml" />
+      <module fileurl="file://$PROJECT_DIR$/src/Memento/Memento.iml" filepath="$PROJECT_DIR$/src/Memento/Memento.iml" />
+      <module fileurl="file://$PROJECT_DIR$/src/Observer/Observer.iml" filepath="$PROJECT_DIR$/src/Observer/Observer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/src/Prototype/Prototype.iml" filepath="$PROJECT_DIR$/src/Prototype/Prototype.iml" />
+      <module fileurl="file://$PROJECT_DIR$/src/Proxy/Proxy.iml" filepath="$PROJECT_DIR$/src/Proxy/Proxy.iml" />
+      <module fileurl="file://$PROJECT_DIR$/src/Singleton/Singleton.iml" filepath="$PROJECT_DIR$/src/Singleton/Singleton.iml" />
+      <module fileurl="file://$PROJECT_DIR$/src/State/State.iml" filepath="$PROJECT_DIR$/src/State/State.iml" />
+      <module fileurl="file://$PROJECT_DIR$/src/Strategy/Strategy.iml" filepath="$PROJECT_DIR$/src/Strategy/Strategy.iml" />
+      <module fileurl="file://$PROJECT_DIR$/src/TemplateMethod/TemplateMethod.iml" filepath="$PROJECT_DIR$/src/TemplateMethod/TemplateMethod.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/UNIX.iml" filepath="$PROJECT_DIR$/.idea/UNIX.iml" />
+      <module fileurl="file://$PROJECT_DIR$/src/Visitor/Visitor.iml" filepath="$PROJECT_DIR$/src/Visitor/Visitor.iml" />
+    </modules>
+  </component>
+</project>
